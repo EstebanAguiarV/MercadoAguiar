@@ -155,6 +155,10 @@ article {
     max-width: 100%;
     height: auto;
     width: 100%;
+    border-top: -20px solid transparent;
+    padding-top: -20px;
+    border: -20px solid transparent;
+    margin: -20px;
 }
 
 .hide-nav {
